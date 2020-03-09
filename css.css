@@ -1,0 +1,153 @@
+
+
+html{
+background: #820950;
+scroll-behavior: smooth;
+
+}
+#title-image{
+height: 80%;
+    width: 100%;
+    alignment: center;
+
+
+
+}
+#button{
+position: absolute;
+top: 50%;
+    left: 50%;
+    background: #660266;
+    color: white;
+    border: transparent;
+    font-family: Ebrima;
+    font-size: 20px;
+
+}
+#title{
+position: absolute;
+    top: 30%;
+    left: 50%;
+    color: whitesmoke;
+    opacity: 70%;
+    font-family: "HoloLens MDL2 Assets";
+    font-size: 48px;
+}
+.container {
+    display: grid;
+    grid-template-columns: auto auto auto ;
+
+}
+.c{
+    width: 87%;
+    height: 95%;
+    padding: 1%;
+    margin-left: 4.5%;
+    margin-top: 1%;
+    border-radius: 5px;
+}
+
+.c:hover {
+    opacity: 70%;
+    background-color: black;
+    transform: translate3d(0.1%,0.2%,1px);
+    border: 3px solid snow;
+    color: whitesmoke;
+    visibility: visible;
+
+
+
+}
+
+.button{
+    height: 100%;
+    width: 100%;
+    display: block;
+}
+.title{
+
+    font-family: Constantia;
+    font-size: x-large;
+    color: #820950;
+    text-align: center;
+
+}
+footer{
+    font-family: Bahnschrift;
+    background-color: black;
+    color: whitesmoke;
+}
+
+#title2{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    color: whitesmoke;
+    opacity: 70%;
+    font-family: "HoloLens MDL2 Assets";
+    font-size: 48px;
+
+}
+
+.label{
+    font-size: xx-large;
+    font-family: Gadugi;
+    alignment: center;
+    text-align: center;
+    background-color: cornflowerblue;
+    border-radius: 5px;
+}
+.h1{
+    text-align: center;
+    font-family: "Lucida Console";
+    font-size: xx-large;
+    color: bisque;
+
+}
+.txt {
+    text-align: center;
+    width: 80%;
+    font-family: "Fira Code Retina";
+    font-size: x-large;
+    color: seashell;
+}
+.txt-lyrics {
+    text-align: center;
+    width: 100%;
+    font-family: "Fira Code Retina";
+    font-size: x-large;
+    color: seashell;
+}
+iframe{
+    margin-top: 5%;
+
+
+
+}
+.subtext{
+    font-family: Constantia;
+    font-size: large;
+    color: #820950;
+    text-align: right;
+
+}
+.page-title{
+
+    color: seashell;
+    font-family: "Fira Code Medium";
+    font-size: xx-large;
+    alignment: center;
+
+}
+a{
+    color: seashell;
+    text-decoration: none;
+    font-family: "Microsoft YaHei UI Light";
+
+
+
+}
+a:hover{
+    background-color: chartreuse;
+}
+
